@@ -21,4 +21,5 @@ The dataset can be viewed as a classification task with the quality classes not 
 </ol>
 <br/>
 <h2>Notebook</h2>
-[a relative link](Red_Wine_Quality.ipynb)
+
+[Link to the notebook](https://github.com/marmudke/Wine_Quality/Red_Wine_Quality.ipynb)
