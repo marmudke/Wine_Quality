@@ -19,7 +19,6 @@ The dataset can be viewed as a classification task with the quality classes not 
   <li>alcohol: Alcohol is formed as a result of yeast converting sugar during the fermentation process. It's usually measured in % volume.</li>
   <li>quality: A quality label in the range of 0 (very bad) to 10 (very excellent). It is the median of at least three evaluations made by wine experts.</li>
 </ol>
-<br/>
 <h2>Notebook</h2>
 
-[Link to the notebook](https://github.com/marmudke/Wine_Quality/Red_Wine_Quality.ipynb)
+[Link to the notebook](/Red_Wine_Quality.ipynb)
