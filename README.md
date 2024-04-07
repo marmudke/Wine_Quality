@@ -1,6 +1,6 @@
 <h1>Red Wine Quality</h1>
 <h2>Objectives</h2>
-The aim of this project is to test different data preparation techniques and machine learning classification models to find the one that gives the most accurate results.
+The aim of this project is to test different machine learning classification models to find the one that gives the most accurate results.
 <h2>About Dataset</h2>
 The Red Wine Quality dataset from Kaggle: https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009
 <br/>
